@@ -107,6 +107,7 @@ span.price {
     margin-bottom: 20px;
   }
 }
+  <?--end styel>
 </style>
 </head>
 <body>
