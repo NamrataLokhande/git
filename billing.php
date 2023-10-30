@@ -117,6 +117,7 @@ span.price {
   <div class="col-75">
     <div class="container">
       <form action="/action_page.php">
+        echo 'Hello Word';
       
         <div class="row">
           <div class="col-50">
